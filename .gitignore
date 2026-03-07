@@ -1,0 +1,7 @@
+# 忽略根目录下的指定文件夹
+/.idea/
+/.venv/
+/__pycache__/
+/ground_truth/
+/old_code/
+/runs/
